@@ -2,4 +2,4 @@
 DEFAULT|A|Gumroad / no prefix
 PREFIX:NVU-A|A|Self-sold A
 PREFIX:NVU-B|B|Self-sold B
-<LICENSE_KEY>|A/B|?p chuy?n th? c?ng
+<LICENSE_KEY>|A/B|Ép chuyển thủ công
