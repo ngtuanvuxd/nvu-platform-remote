@@ -17,12 +17,12 @@ NVU.SORTCUT|||
 NVU.PALETTETHEME|||
 ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION
 CORE|||
-NVU.AUTOLAYER|https://gumroad.com/l/kggprint|https://gumroad.com/l/kggprint|1.1.1.0
-NVU.SORTCUT|||
-NVU.PALETTETHEME|||
+NVU.AUTOLAYER|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.1
+NVU.SORTCUT|https://gumroad.com/info/nvu.sortcut|https://gumroad.com/l/nvu.sortcut|1.2.0
+NVU.PALETTETHEME|https://gumroad.com/info/nvu.palettetheme|https://gumroad.com/l/nvu.palettetheme|1.2.2
 
 #UPDATE_TABLE
-ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK
+ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|PRICE
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
