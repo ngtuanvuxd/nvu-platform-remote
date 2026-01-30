@@ -28,7 +28,7 @@ ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|PRICE
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
-GLOBAL|G2"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|G2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|ON
+GLOBAL|G2"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|G2"Upgrade your account for free before February 1, 2026."||ON
 TRAY|T2"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|T2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|ON
 NVU.AUTOLAYER|M"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|M"Upgrade your account for free before February 1, 2026."||ON
 NVU.AUTOLAYER|M"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|M"Upgrade your account for free before February 1, 2026."||ON
