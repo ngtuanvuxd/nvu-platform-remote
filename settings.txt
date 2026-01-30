@@ -17,14 +17,14 @@ NVU.AUTOLAYER|||
 NVU.PRINT|||
 NVU.SORTCUT|||
 NVU.PALETTETHEME|||
-ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION
-CORE|||
-NVU.AUTOLAYER|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.1
-NVU.SORTCUT|https://gumroad.com/info/nvu.sortcut|https://gumroad.com/l/nvu.sortcut|1.2.0
-NVU.PALETTETHEME|https://gumroad.com/info/nvu.palettetheme|https://gumroad.com/l/nvu.palettetheme|1.2.2
 
 #UPDATE_TABLE
 ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|PRICE
+ITEM|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|PRICE
+CORE|||||||
+NVU.AUTOLAYER|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.1|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/autolayer.zip|Mô tả nhanh vi|Mô tả nhanh en|200.000đ
+NVU.SORTCUT|https://gumroad.com/info/nvu.sortcut|https://gumroad.com/l/nvu.sortcut|1.2.0|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/sortcut.zip|Mô tả nhanh vi|Mô tả nhanh en|FREE
+NVU.PALETTETHEME|https://gumroad.com/info/nvu.palettetheme|https://gumroad.com/l/nvu.palettetheme|1.2.2|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/palettetheme.zip|Mô tả nhanh vi|Mô tả nhanh en|0
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
