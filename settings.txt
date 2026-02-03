@@ -12,7 +12,7 @@ MAX_SOURCES_PER_CALL|3
 APP_LOGO|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/5df9e7840eae4134b7739e02b3b39e8c2b5991d1/NVU-900.png
 FACEBOOK|https://www.facebook.com/vu.kgg
 YOUTUBE|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
-ZALO|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
+ZALO|https://zalo.me/0971212356
 
 #GUMROAD_TABLE
 ITEM|GUMROAD_ID|ENTITLEMENTS|NOTE
