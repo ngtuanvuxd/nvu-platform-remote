@@ -9,7 +9,7 @@ CACHE_TTL_HOURS|0
 SOURCE_TIMEOUT_MS|5000
 SOURCE_COOLDOWN_MINUTES|30
 MAX_SOURCES_PER_CALL|3
-APP_LOGO|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png
+APP_LOGO|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/904b2cee6f7824677e1f0ddc6c9fd13d83e75fb1/NVU-LOGO-191x84.png
 FACEBOOK|https://www.facebook.com/vu.kgg
 YOUTUBE|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
 ZALO|https://zalo.me/0971212356
