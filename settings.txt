@@ -1,6 +1,7 @@
 #KEY|VALUE
 KEY|VALUE
 WEBAPP_URL_A|https://script.google.com/macros/s/AKfycbwpm9swkmpn8fdyr0DpcWe43sqkeSC29iy4KUfos1uidc_ceYPO8wZTg5COxvQBqW36/exec
+WEBAPP_URL_A_MIRROR|https://script.google.com/macros/s/AKfycbyAAkx7juVWCr-RKADOJTYK7reTB7eijiiSUQDxTQkF1B30udoz1azhnwjNig1Vg86c/exec
 WEBAPP_URL_B_MIRROR|<WEBAPP_URL_A>?cmd=routing
 PUBLIC_KEY|-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwAOtiwJR+RQhj3Hqite0ygeaTDdLhbGBsS1WxXvwsBo7txVvZjjcpwUfnjGjtTsFq0D3A/X5/mNvv9QH1BgXDIapfyIDlc+ViU8dGzRfKdHKQV0Gkq6feoSNLq9pTNpP8E3rS/pJFT5R38cVDMb8aZD4tpDw0RhFFJRfEq5k9lVzFZVnCaKBXmaS40FPuFP/Al3Opd1NqzWHAXOX6h962jIJUQtAiTOGLzQVqTVSPIS8nvuyy0uttunJZHpC6A9blm8fOAYWhGb1MgLBM2eTIKAApA3u2NCgnyqpMGU9yUUonTOl2fSzQFiv00B/EQefa2dfdyPgYpRVRm36on6OywIDAQAB\n-----END PUBLIC KEY-----
 REPORT_INSTALL_TRACKING|ON
@@ -16,15 +17,13 @@ ZALO|https://zalo.me/0971212356
 
 #GUMROAD_TABLE
 ITEM|GUMROAD_ID|ENTITLEMENTS|NOTE
-NVU.AUTOLAYER|||
-NVU.PRINT|||
-NVU.SORTCUT|||
-NVU.PALETTETHEME|||
+NVU.AutoLayer|AutoLayer|NVU.AutoLayer|
+NVU.CommandAlias|CommandAlias|NVU.CommandAlias|
 
 #UPDATE_TABLE
 ITEM|DISPLAY_NAME|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|UPGRADE_NOTE_VI|UPGRADE_NOTE_EN|ICON|PRICE|ORDER
 CORE||||||||||||
-NVU.AUTOLAYER|Auto Layer|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.1|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/autolayer.zip|Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|Gọi layer hiện hành...\n\n✓ Không giới hạn số dòng\n✓ Hỗ trợ 24/7|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|150.000 VNĐ|1
+NVU.AutoLayer|Auto Layer|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.1|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/autolayer.zip|Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|Gọi layer hiện hành...\n\n✓ Không giới hạn số dòng\n✓ Hỗ trợ 24/7|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|150.000 VNĐ|1
 NVU.Print|Pro Print|https://gumroad.com/info/nvu.print|https://gumroad.com/l/nvu.print|1.1.2|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/print.zip|Giải pháp In ấn hàng loạt & Xuất bản hồ sơ tự động toàn diện cho AutoCAD. Tự động nhận diện khung tên, tên và kỹ hiệu bản vẽ. In PDF, ghép file và tự động tạo danh mục bản vẽ, tạo layout cho bản vẽ chỉ trong 1 click.|Giải pháp In ấn hàng loạt & Xuất bản hồ sơ tự động toàn diện cho AutoCAD. Tự động nhận diện khung tên, tên và kỹ hiệu bản vẽ. In PDF, ghép file và tự động tạo danh mục bản vẽ, tạo layout cho bản vẽ chỉ trong 1 click.|||https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/0172f7f35cb40bc54d4240727cbc424950e0b2e6/NVU.Print.Logo.png|200.000 VNĐ|2
 NVU.VIEWSELECTIONS|View Selections|https://gumroad.com/info/nvu.sortcut|https://gumroad.com/l/nvu.sortcut|1.2.0|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/sortcut.zip|Thiết lập lệnh tắt theo thói quen người dùng. Đa profile hỗ trợ nhiều người dùng cùng thiết bị|Thiết lập lệnh tắt theo thói quen người dùng. Đa profile hỗ trợ nhiều người dùng cùng thiết bị|||https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/99b5ca9cbcec22eb8ea6d265bdc4fd65d0ba750c/NVU-84.png|100.000 VNĐ|3
 NVU.PROPERTIES|Properties|https://gumroad.com/info/nvu.sortcut|https://gumroad.com/l/nvu.sortcut|1.0.0|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/sortcut.zip|Thiết lập lệnh tắt theo thói quen người dùng. Đa profile hỗ trợ nhiều người dùng cùng thiết bị|Thiết lập lệnh tắt theo thói quen người dùng. Đa profile hỗ trợ nhiều người dùng cùng thiết bị|||https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/99b5ca9cbcec22eb8ea6d265bdc4fd65d0ba750c/NVU-84.png|0|4
