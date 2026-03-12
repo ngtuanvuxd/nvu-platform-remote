@@ -11,6 +11,9 @@ APP_LOGO|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/904b2c
 FACEBOOK|https://www.facebook.com/vu.kgg
 YOUTUBE|https://youtu.be/Qvc3WVpD0HE?si=glKRjDQNkKACC1Vw
 ZALO|https://zalo.me/0971212356
+CHECK_TRIAL_HOURS|168
+TRIAL_DAYS_DEFAULT|100
+TRIAL_ENABLED_MODULES|NVU.Print
 
 #GUMROAD_TABLE
 ITEM|GUMROAD_ID|ENTITLEMENTS|NOTE
