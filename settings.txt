@@ -34,8 +34,8 @@ NVU.PALETTETHEMEPAID|Palette Theme Paid|https://gumroad.com/info/nvu.palettethem
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
-GLOBAL|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|G2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|ON
-TRAY|T2"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|T2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|OFF
+GLOBAL|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|G2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|OFF
+TRAY|T2"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|T2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|ON
 NVU.AUTOLAYER|M"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|M"Upgrade your account for free before February 1, 2026."||ON
 NVU.AUTOLAYER|M"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|M"Upgrade your account for free before February 1, 2026."||ON
 NVU.SORTCUT|M"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|M"Upgrade your account for free before February 1, 2026."||ON
