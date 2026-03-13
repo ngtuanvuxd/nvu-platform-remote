@@ -21,7 +21,7 @@ NVU.CommandAlias|CommandAlias|NVU.CommandAlias|
 #UPDATE_TABLE
 ITEM|DISPLAY_NAME|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|UPGRADE_NOTE_VI|UPGRADE_NOTE_EN|ICON|PRICE|ORDER
 Core|Core|||1.0.0||||||||
-NVU.AutoLayer|Auto Layer|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.0||Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.||https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/9c1f08c10321dfadf02ceeae5901603ee7f1b0fa/NVU.AutoLayer.Logo.png|125.000 VNĐ|2
+NVU.AutoLayer|Auto Layer|https://gumroad.com/info/nvu.autolayer|https://gumroad.com/l/nvu.autolayer|1.0.0||Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|Gọi layer hiện hành hoặc đổi layer nhanh chóng với các phím tắt được thiết lập sẵn.|||https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/9c1f08c10321dfadf02ceeae5901603ee7f1b0fa/NVU.AutoLayer.Logo.png|125.000 VNĐ|2
 NVU.BlockTools|Block Tools|||1.0.0||||||||
 NVU.Boundary|Boundary|||1.0.0||||||||
 NVU.CommandAlias|Command Alias|||1.0.0||Thiết lập lệnh tắt theo thói quen người dùng. Đa profile hỗ trợ nhiều người dùng cùng thiết bị||||https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/f6a154c911c6c971ad8af989c01e6b49686ff75b/NVU.CommandAlias.Logo.png|50.000 VNĐ|3
