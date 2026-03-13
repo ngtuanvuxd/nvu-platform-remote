@@ -40,6 +40,8 @@ NVU.SmartCalc|Smart Calc|||1.0.0||||||||
 NVU.SplineToPline|Spline To Pline|||1.0.0||||||||
 NVU.TablePaste|Table Paste|||1.0.0||||||||
 NVU.TextCase|Text Case|||1.0.0||||||||
+NVU.AiChat|AiChat|||1.0.0||||||||
+NVU.Wipeout|Wipeout|||1.0.0||||||||
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
