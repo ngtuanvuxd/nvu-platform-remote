@@ -17,6 +17,7 @@ TRIAL_ENABLED_MODULES|NVU.Print
 ITEM|GUMROAD_ID|ENTITLEMENTS|NOTE
 NVU.AutoLayer|AutoLayer|NVU.AutoLayer|
 NVU.CommandAlias|CommandAlias|NVU.CommandAlias|
+NVU.Scene|Scene|NVU.Scene|
 
 #UPDATE_TABLE
 ITEM|DISPLAY_NAME|INFO_LINK|BUY_LINK|LATEST_VERSION|UPDATE_LINK|DESC_VI|DESC_EN|UPGRADE_NOTE_VI|UPGRADE_NOTE_EN|ICON|PRICE|ORDER
@@ -45,5 +46,5 @@ NVU.HatchCleaner|Hatch Cleaner|||1.0.0||Quét và dọn dẹp các hatch lỗi, 
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
-GLOBAL|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/15828b2124f5f01c109d7ab69f2e57110846d0db/NVU-GROUP.png|G2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|OFF
-TRAY|T2"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"|T2"Upgrade your account for free before February 1, 2026."|https://gumroad.com/l/kggprint|OFF
+GLOBAL|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/0b8e50a26249fe33035125cd31e161328fc1ee76/NVU-Poster%20Khuy%E1%BA%BFn%20M%C3%A3i.png|G2"Upgrade your account for free before February 1, 2026."|https://www.facebook.com/vu.kgg|ON
+TRAY|"Nâng cấp tài khoản miễn phí trước ngày 31/12/2026"|"Upgrade your account for free before February 31, 2026."|https://gumroad.com/l/kggprint|ON
