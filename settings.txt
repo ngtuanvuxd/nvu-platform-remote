@@ -52,5 +52,5 @@ NVU.HatchCleaner|Hatch Cleaner|||1.0.0||Quét và dọn dẹp các hatch lỗi, 
 
 #MESSAGES
 ITEM|STATUS_VI|STATUS_EN|STATUS_LINK|STATUS_MODE
-GLOBAL|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/0b8e50a26249fe33035125cd31e161328fc1ee76/NVU-Poster%20Khuy%E1%BA%BFn%20M%C3%A3i.png|G2"Upgrade your account for free before February 1, 2026."|https://www.facebook.com/vu.kgg|ON
+GLOBAL|https://raw.githubusercontent.com/ngtuanvuxd/nvu-platform-remote/main/NVU.Messages.Global.Poster.png|G2"Upgrade your account for free before February 1, 2026."|https://www.facebook.com/vu.kgg|ON
 TRAY|"Nâng cấp tài khoản miễn phí trước ngày 31/12/2026"|"Upgrade your account for free before February 31, 2026."|https://gumroad.com/l/kggprint|OFF
